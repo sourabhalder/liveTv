@@ -1,2 +1,2 @@
 # liveTv
-https://Sourabhalder.github.io/livetv
+https://Sourabhalder.github.io/liveTv
